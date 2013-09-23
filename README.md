@@ -1,2 +1,0 @@
-Python-tutorial-sk
-==================
