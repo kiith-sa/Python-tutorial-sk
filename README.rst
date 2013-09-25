@@ -409,3 +409,22 @@ Knižnice, web frameworky
 `PyGame <http://www.pygame.org/>`_                                       Knižnica na tvorbu hier založená na SDL
 `PyQt <http://www.riverbankcomputing.co.uk/software/pyqt/intro>`_        Bindings pre Qt
 ======================================================================== ===============================================================
+
+
+
+
+
+------------
+Domaca uloha
+------------
+
+Urobit jednoduchy web chat.
+
+User sa naloguje (staci menom) - pouzit session vo Flasku.
+User moze pisat spravy a logoutovat. Spravy su zobrazene s menom autora.
+Spravy staci pisat do suboru (otvorit cez funkciu ``open()``, 
+pre citanie s flagom 'r' a pre appendovanie s flagom 'a').
+
+`Flask quick start tutorial <http://flask.pocoo.org/docs/quickstart/>`_
+`Praca so subormi v Pythone <http://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files>`_
+`Example blog vo Flasku <https://github.com/mitsuhiko/flask/tree/master/examples/flaskr/>`_
